@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+database/portfolio.db
+.DS_Store
+dist/
