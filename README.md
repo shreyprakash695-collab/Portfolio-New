@@ -1,4 +1,4 @@
-﻿# Personal Portfolio Website — Shrey Prakash
+# Personal Portfolio Website — Shrey Prakash
 
 A clean, modern, and responsive personal portfolio website for **Shrey Prakash** (BCA student at Uttaranchal University). All data is hardcoded directly into the semantic markup, requiring **zero database configuration, zero external installations, and zero backend services**.
 
@@ -13,7 +13,7 @@ A clean, modern, and responsive personal portfolio website for **Shrey Prakash**
   - Client-side project tag filtering (`All`, `C++`, `Python`, `SQL`, `DSA`).
   - Sticky navigation with scroll-position observer (ScrollSpy).
   - Validated contact form with interactive feedback toasts and `mailto:` integration.
-  - One-click resume download (`Shrey_Prakash_CV(1).pdf`).
+  - One-click resume download (`Shrey_Prakash_CV.pdf`).
 
 ---
 
@@ -26,7 +26,7 @@ personal-portfolio/
 ├── js/
 │   └── app.js                # Client-side interactivity, filters, parallax & form validation
 ├── index.html                # Complete hardcoded portfolio page
-├── Shrey_Prakash_CV(1).pdf   # Resume download asset
+├── Shrey_Prakash_CV.pdf      # Resume download asset
 ├── server.py                 # Optional lightweight local preview server (Python built-in)
 └── README.md                 # Project documentation
 ```
